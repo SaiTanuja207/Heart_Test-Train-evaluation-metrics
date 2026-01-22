@@ -1,9 +1,9 @@
-Task 5: Train-Test Split & Evaluation Metrics on Heart Disease Dataset
-📌 Objective
+#Task 5: Train-Test Split & Evaluation Metrics on Heart Disease Dataset
+##📌 Objective
 
 To understand and implement train-test splitting, model training, and evaluation techniques using a classification algorithm on the Heart Disease dataset.
 
-📂 Dataset
+##📂 Dataset
 
 Heart Disease Dataset
 
@@ -11,7 +11,7 @@ File Used:
 
 heart.csv
 
-🛠 Tools & Libraries
+##🛠 Tools & Libraries
 
 Python
 
@@ -21,7 +21,7 @@ NumPy
 
 Scikit-learn
 
-🔍 Steps Performed
+##🔍 Steps Performed
 
 Loaded the Heart Disease dataset using Pandas.
 
@@ -41,7 +41,7 @@ Analyzed results using a confusion matrix.
 
 Interpreted the model’s performance.
 
-📊 Why Train-Test Split & Evaluation?
+##📊 Why Train-Test Split & Evaluation?
 
 Ensures the model is evaluated on unseen data.
 
@@ -51,7 +51,7 @@ Provides reliable performance metrics.
 
 Important for real-world and healthcare-related ML problems.
 
-📁 Output Files
+##📁 Output Files
 
 heart.csv
 
@@ -59,7 +59,7 @@ Train-Test Split & Evaluation Metrics.ipynb
 
 README.md
 
-✅ Conclusion
+##✅ Conclusion
 
 This task successfully demonstrated the complete machine learning evaluation workflow.
 By splitting the data, training a model, and analyzing evaluation metrics, a strong foundation in model evaluation techniques was established.
