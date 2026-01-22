@@ -13,51 +13,48 @@ File Used:
 
 ## 🛠 Tools & Libraries
 
-Python
-
-Pandas
-
-NumPy
-
-Scikit-learn
+* Python
+* Pandas
+* NumPy
+* Scikit-learn
 
 ## 🔍 Steps Performed
 
-Loaded the Heart Disease dataset using Pandas.
+* Loaded the Heart Disease dataset using Pandas.
 
-Identified input features and target variable.
+* Identified input features and target variable.
 
-Split the dataset into training and testing sets.
+* Split the dataset into training and testing sets.
 
-Explained the purpose of training data versus testing data.
+* Explained the purpose of training data versus testing data.
 
-Trained a Logistic Regression model.
+* Trained a Logistic Regression model.
 
-Generated predictions on the test dataset.
+* Generated predictions on the test dataset.
 
-Evaluated the model using accuracy, precision, and recall.
+* Evaluated the model using accuracy, precision, and recall.
 
-Analyzed results using a confusion matrix.
+* Analyzed results using a confusion matrix.
 
-Interpreted the model’s performance.
+* Interpreted the model’s performance.
 
 ## 📊 Why Train-Test Split & Evaluation?
 
-Ensures the model is evaluated on unseen data.
+* Ensures the model is evaluated on unseen data.
 
-Helps prevent overfitting.
+* Helps prevent overfitting.
 
-Provides reliable performance metrics.
+* Provides reliable performance metrics.
 
-Important for real-world and healthcare-related ML problems.
+* Important for real-world and healthcare-related ML problems.
 
 ## 📁 Output Files
 
-heart.csv
+* heart.csv
 
-Train-Test Split & Evaluation Metrics.ipynb
+* Train-Test Split & Evaluation Metrics.ipynb
 
-README.md
+* README.md
 
 ## ✅ Conclusion
 
